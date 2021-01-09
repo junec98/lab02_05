@@ -8,6 +8,7 @@ void main() {
 	int num;
 	while (cin >> num) {
 		vec.push_back(num);
+		0;
 	
 	}
 	
